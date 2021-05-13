@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
+h1{
+    color:grey;
+    font-family: verdana;
+    text-align: center;
+
+
+}
+
+.maindiv {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    width: 500px
+}
+
+#resultone {
+    margin: auto;
+    color: black;
+    margin-left: 125px;
+}
+
+p{
+    color: black;
+    margin-left: 125px;
+
+}
+
+footer {
+    color: black;
+    margin-left: 125px;
+}
+
+button {
+    justify-content: center;
+    margin-left: 125px;
+}
+
+.principal_highlighted {
+    background-color: yellow;
+}
